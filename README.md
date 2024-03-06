@@ -4,7 +4,7 @@
 
 This project is a project where an autonomous pilot quadcopter using the pixhawk V2 as the microcontroller is decveloped. The purpose of this project is to developed a drone that can monitor and identify pollution levels and moving automatically based on the readings of the gas sensor.
 
-# Download and Setup
+# Download and Setup for MAVSDK Library
 
 Dowload Ubuntu 20.04
 
