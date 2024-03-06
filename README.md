@@ -2,7 +2,7 @@
 
 # Author: Fida'uddin bin Faizol Fadzli
 
-This project is a project where an autonomous pilot quadcopter using the pixhawk V2 as the microcontroller is decveloped. The purpose of this project is to developed a drone that can monitor and identify pollution levels and moving automatically based on the readings of the gas sensor.
+This project is a project where an autonomous pilot quadcopter using the pixhawk V2 as the microcontroller is decveloped. The purpose of this project is to develop a drone that can monitor and identify pollution levels and moving automatically based on the readings of the gas sensor.
 
 # Download and Setup for MAVSDK Library
 
