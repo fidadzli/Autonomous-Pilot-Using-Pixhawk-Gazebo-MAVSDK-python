@@ -50,3 +50,15 @@ Download QGroundControl.AppImage. #cari di qground control website #move file ni
 chmod +x ./QGroundControl.AppImage
 ./QGroundControl.AppImage
 
+# Download and Setup for DroneKit Library
+pip install dronekit
+pip install dronekit-SITL
+
+pip install dronekit-sitl -UI
+dronekit-sitl copter
+
+refer this link: https://dronekit-python.readthedocs.io/en/latest/develop/sitl_setup.html
+
+Connecting vehicle to gazebo
+python vehicle_state.py --connect 127.0.0.1:14550
+
